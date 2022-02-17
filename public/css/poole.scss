@@ -35,7 +35,12 @@ body {
   font-size: 16px;
   line-height: 1.6;
 }
-
+@font-face {
+  font-family: 'icomoon','字酷堂石刻体';
+  src: url('../fonts/icomoon.ttf') format('truetype'), url('../fonts/ZiKuTangShiKeTi-2.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   font-family: "Times New Roman","Noto Serif SC","字酷堂石刻体","PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
   background-color: #ffffff;
