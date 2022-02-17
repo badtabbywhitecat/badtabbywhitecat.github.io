@@ -63,7 +63,7 @@ body.dark-mode h4,
 body.dark-mode h5,
 body.dark-mode h6 {
   color: #ffffff;
-  font-family: "Times New Roman","字酷堂石刻体"；
+  font-family: "Times New Roman","Noto Serif CJK","字酷堂石刻体"；
 }
 body.dark-mode .message {
   background-color: #000000;
@@ -198,14 +198,14 @@ kbd {
   background-color: #f5f3f1;
   color: #222222;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
-  font-family: "Source Code Pro", "Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
+  font-family: "Source Code Pro", "Noto Serif CJK","Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
   font-size: .8rem;
 }
 
 /* Code */
 code,
 pre {
-  font-family: "Source Code Pro", "Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
+  font-family: "Source Code Pro", "Noto Serif CJK","Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
 }
 code {
   padding: .18em 0.28em;
