@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: photo
-permalink: /tags/photo
+tag: drawing
+permalink: /tags/drawing
 ---
