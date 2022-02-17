@@ -4,11 +4,13 @@ title: '诗词格律备忘'
 tags: poet
 ---
 
-<hr class = 'post-devide'>
-<hr class = 'post-devide'>
+
+
 ## 【五绝】
 
-<hr class = 'post-devide'>
+```
+平起首句不押韵
+```
 
 ⊙平平仄仄，
 
@@ -18,8 +20,10 @@ tags: poet
 
 平平仄仄**平**。
 
+```
+平起首句押韵
+```
 
-<hr class = 'post-devide'>
 
 平平仄仄**平**，
 
@@ -30,7 +34,9 @@ tags: poet
 平平仄仄**平**。
 
 
-<hr class = 'post-devide'>
+```
+仄起首句不押韵
+```
 
 ⊙仄平平仄，
 
@@ -41,7 +47,9 @@ tags: poet
 ⊙仄仄平**平**。
 
 
-<hr class = 'post-devide'>
+```
+仄起首句押韵
+```
 
 ⊙仄仄平**平**，
 
@@ -52,10 +60,13 @@ tags: poet
 ⊙仄仄平**平**。
 
 
-<hr class = 'post-devide'>
+
 ---
 ## 【七绝】
-<hr class = 'post-devide'>
+
+```
+平起首句不押韵
+```
 
 ⊙平⊙仄平平仄， 
 
@@ -66,7 +77,9 @@ tags: poet
 ⊙平⊙仄仄平**平**。
 
 
-<hr class = 'post-devide'>
+```
+平起首句押韵
+```
 
 ⊙平⊙仄仄平**平**，
 
@@ -77,7 +90,9 @@ tags: poet
 ⊙平⊙仄仄平**平**。
 
 
-<hr class = 'post-devide'>
+```
+仄起首句不押韵
+```
 
 ⊙仄⊙平平仄仄，
 
@@ -89,7 +104,9 @@ tags: poet
 
 [【七绝】无题](https://badtabbywhitecat.github.io/posts/qj-01.html) 
 
-<hr class = 'post-devide'>
+```
+仄起首句押韵
+```
 
 ⊙仄平平仄仄**平**，
 
@@ -99,11 +116,13 @@ tags: poet
 
 ⊙仄平平仄仄**平**。
 
-<hr class = 'post-devide'>
+
 ---
 ## 【五律】
 
-<hr class = 'post-devide'>
+```
+平起首句不押韵
+```
 
 ⊙平⊙仄仄 ，⊙仄仄平**平** 。
 
@@ -114,7 +133,9 @@ tags: poet
 ⊙仄⊙平仄 ，平平⊙仄**平**。
 
 
-<hr class = 'post-devide'>
+```
+平起首句押韵
+```
 
 平平⊙仄**平**，⊙仄仄平**平**。
 
@@ -124,8 +145,10 @@ tags: poet
 
 ⊙仄⊙平仄 ，平平⊙仄**平**。
 
+```
+仄起首句不押韵
+```
 
-<hr class = 'post-devide'>
 
 ⊙仄⊙平仄 ，平平⊙仄**平**。 
 
@@ -136,7 +159,9 @@ tags: poet
 ⊙平⊙仄仄 ，⊙仄仄平**平**。
 
 
-<hr class = 'post-devide'>
+```
+仄起首句押韵
+```
 
 ⊙仄仄平**平**， 平平⊙仄**平**。
 
@@ -146,10 +171,13 @@ tags: poet
 
 ⊙平⊙仄仄 ，⊙仄仄平**平**。
 
-<hr class = 'post-devide'>
+
 ---
 ## 【七律】
-<hr class = 'post-devide'>
+
+```
+平起首句不押韵
+```
 
 ⊙平⊙仄⊙平仄 ，⊙仄平平⊙仄**平**。
 
@@ -159,7 +187,9 @@ tags: poet
 
 ⊙仄⊙平⊙仄仄 ，⊙平⊙仄仄平**平**。
 
-<hr class = 'post-devide'>
+```
+平起首句押韵
+```
 
 ⊙平⊙仄仄平**平** ，⊙仄平平⊙仄**平** 。
 
@@ -171,17 +201,21 @@ tags: poet
 
 [【七律】无题](https://badtabbywhitecat.github.io/posts/ql-01.html)
 
-
-<hr class = 'post-devide'>
-⊙仄⊙平⊙仄仄 ，⊙平⊙仄仄平**平** 。
-
-⊙平⊙仄⊙平仄 ，⊙仄平平⊙仄**平**。
+```
+仄起首句不押韵
+```
 
 ⊙仄⊙平⊙仄仄 ，⊙平⊙仄仄平**平** 。
 
 ⊙平⊙仄⊙平仄 ，⊙仄平平⊙仄**平**。
 
-<hr class = 'post-devide'>
+⊙仄⊙平⊙仄仄 ，⊙平⊙仄仄平**平** 。
+
+⊙平⊙仄⊙平仄 ，⊙仄平平⊙仄**平**。
+
+```
+仄起首句押韵
+```
 
 ⊙仄平平⊙仄**平**， ⊙平⊙仄仄平**平**。 
 
@@ -191,11 +225,11 @@ tags: poet
 
 ⊙平⊙仄⊙平仄 ，⊙仄平平⊙仄**平**。
 
-<hr class = 'post-devide'>
+
 ---
 ## 【点绛唇】
 
-<hr class = 'post-devide'>
+
 
 [仄]仄平平，[平]平[平]仄平平**仄**。
 
