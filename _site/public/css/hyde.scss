@@ -200,7 +200,7 @@
 .sidebar-social > a,
 .sidebar-social > span {
   color: #fff;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   line-height: 1.4rem;
   margin-right: 1rem;
   cursor: pointer;
@@ -240,7 +240,8 @@
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
-  line-height: 1.7;
+  font-size: 20px;
+  line-height: 1.8;
 
   /*
    * Ensure same content width when JS drawer is disabled.
@@ -355,7 +356,7 @@
 .icon.icon-rss,
 .icon.icon-steam,
 .icon.icon-facebook {
-  font-size: 0.95em;
+  font-size: 1rem;
 }
 
 .me {
