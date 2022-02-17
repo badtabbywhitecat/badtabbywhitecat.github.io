@@ -10,3 +10,5 @@
 5. 将【饮冰先生的博客】（网址：`https://mayanbin.com/`） 加入到您的友情链接中
 
 如有其他问题，欢迎联系 237572656@qq.com
+
+[呼噜声](https://minecraft.fandom.com/wiki/Cat#Sounds)
