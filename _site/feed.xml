@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-17T11:15:50+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">存档点</title><subtitle>陆一鸣说：黑暗好像一颗巨石按在胸口
+</subtitle><author><name>猫包</name><email>badtabbywhitecat@yandex.ru</email></author><entry><title type="html">Markdown基础语法备忘</title><link href="http://localhost:4000/posts/markdown.html" rel="alternate" type="text/html" title="Markdown基础语法备忘" /><published>2022-02-16T00:00:00+08:00</published><updated>2022-02-16T00:00:00+08:00</updated><id>http://localhost:4000/posts/markdown</id><content type="html" xml:base="http://localhost:4000/posts/markdown.html">&lt;ul&gt;
+  &lt;li&gt;第一点
+```&lt;/li&gt;
+  &lt;li&gt;第一点&lt;/li&gt;
+  &lt;li&gt;第一点&lt;/li&gt;
+  &lt;li&gt;第一点
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. 第一点
+2. 第二点
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;ol&gt;
+      &lt;li&gt;第一点&lt;/li&gt;
+      &lt;li&gt;第二点
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt;最外层
+&amp;gt;&amp;gt;第一层
+&amp;gt;&amp;gt;&amp;gt;第二层
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;blockquote&gt;
+          &lt;p&gt;最外层&lt;/p&gt;
+          &lt;blockquote&gt;
+            &lt;p&gt;第一层&lt;/p&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;第二层
+```&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;|表头|列1|列2|
+| :— | :—-: | —: |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;|表头|列1|列2|
+| :--- | :----: | ---: |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;文字,&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; 文字.[^脚注2] 链接.[^3]&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;`{ 差不多得了 }` [^3]:https://qoto.org/web/accounts/512802
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;一级标题&quot;&gt;一级标题&lt;/h1&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# 一级标题
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;一级标题
+=
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;二级标题&quot;&gt;二级标题&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;## 二级标题
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;二级标题
+-
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;斜体文本&lt;/em&gt;
+&lt;em&gt;斜体文本&lt;/em&gt; 
+&lt;strong&gt;粗体文本&lt;/strong&gt;
+&lt;strong&gt;粗体文本&lt;/strong&gt; 
+&lt;strong&gt;&lt;em&gt;粗斜体文本&lt;/em&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;em&gt;粗斜体文本&lt;/em&gt;&lt;/strong&gt;
+==高亮==&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*斜体文本*
+_斜体文本_ 
+
+**粗体文本**
+__粗体文本__ 
+
+***粗斜体文本***
+___粗斜体文本___
+
+==高亮==
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*** 
+* * * 
+**** 
+- - - 
+-----------
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;del&gt;删除&lt;/del&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;~~删除~~
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;u&gt;下划线&lt;/u&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;u&amp;gt;下划线&amp;lt;/u&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;font color=&quot;red&quot;&gt;红色内容&lt;/font&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&amp;lt;font color=&quot;red&quot;&amp;gt;红色内容&amp;lt;/font&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;![[日记]]&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![[日记]]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://qoto.org/web/accounts/512802&quot;&gt;链接&lt;/a&gt;
+&lt;a href=&quot;https://qoto.org/web/accounts/512802&quot;&gt;https://qoto.org/web/accounts/512802&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[文字](地址)
+&amp;lt;地址&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://storage.gra.cloud.ovh.net/v1/AUTH_011f6e315d3744d498d93f6fa0d9b5ee/qotoorg/media_attachments/files/107/430/071/811/245/466/original/217b6a368289b054.jpg&quot; alt=&quot;世界之夜&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![](https://storage.gra.cloud.ovh.net/v1/AUTH_011f6e315d3744d498d93f6fa0d9b5ee/qotoorg/media_attachments/files/107/430/071/811/245/466/original/217b6a368289b054.jpg)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://storage.gra.cloud.ovh.net/v1/AUTH_011f6e315d3744d498d93f6fa0d9b5ee/qotoorg/media_attachments/files/107/430/071/811/245/466/original/217b6a368289b054.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This is the first footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>猫包</name><email>badtabbywhitecat@yandex.ru</email></author><category term="daily" /><summary type="html">第一点 ``` 第一点 第一点 第一点 1. 第一点 2. 第二点 第一点 第二点 &amp;gt;最外层 &amp;gt;&amp;gt;第一层 &amp;gt;&amp;gt;&amp;gt;第二层 最外层 第一层 第二层 ```</summary></entry></feed>

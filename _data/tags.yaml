@@ -1,0 +1,33 @@
+# Add an entry, where the key represents a slug.
+# Provide at least a `name` value and optionally `image`, `color` and `description`.
+# Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
+#
+# Example:
+#
+# ~~~
+# mytag:
+#   name: My Tag
+#   description: >
+#     *My Tag* is an example of how to define a custom tag.
+# ~~~
+
+poet:
+  name: 诗歌&草稿
+  color: '#f44336'
+  description: |
+    就刚才她念的那个实在太逗了，流眼泪一千行
+
+daily:
+  name: 日常&脑洞
+  description: >
+    脑洞深深深几许
+    
+
+novel:
+  name: 小说
+  description: >
+    我上面没人
+drawing:
+  name: 绘画
+  description: >
+    Sei让你画春宫滴！
