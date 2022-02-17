@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "页面未找到"
+title: "！施工中！"
 permalink: 404.html
 index: -1
 ---
 
-抱歉，您所请求的页面未找到。你可以[返回主页](/{{site.baseurl}})继续浏览。
+不好意思，俺还没折腾完。→[回到主页](/{{site.baseurl}})←继续浏览。
