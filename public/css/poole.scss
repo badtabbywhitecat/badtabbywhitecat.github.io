@@ -68,7 +68,7 @@ body.dark-mode h4,
 body.dark-mode h5,
 body.dark-mode h6 {
   color: #c5baa1;
-  font-family: 'icomoon','Times New Roman', Times, serif,'字酷堂石刻体','宋体','楷体_GB2312', '楷体'；
+  font-family: 'icomoon','Times New Roman', Times, '字酷堂石刻体',serif,'宋体','楷体_GB2312', '楷体'；
 }
 body.dark-mode .message {
   background-color: #000000;
@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
   font-weight: 600;
   line-height: 1.25;
-  font-family: 'Times New Roman', Times, serif,'字酷堂石刻体','宋体';
+  font-family: 'Times New Roman', Times,'字酷堂石刻体', serif,'宋体';
   text-rendering: optimizeLegibility;
 }
 h1 {

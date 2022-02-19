@@ -37,14 +37,14 @@ body {
 }
 
 @font-face {
-  font-family: 'icomoon','Noto Serif SC','Times New Roman', Times, serif,'字酷堂石刻体','宋体','楷体_GB2312', '楷体';
+  font-family: 'icomoon','Noto Serif SC','Times New Roman', Times, '字酷堂石刻体',serif,'宋体','楷体_GB2312', '楷体';
   src: url('../fonts/icomoon.ttf') format('truetype'),url('../fonts/NotoSerifSC-Regular.otf') format('opentype'), url('../fonts/ZiKuTangShiKeTi-2.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  font-family: "Times New Roman","字酷堂石刻体","PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  font-family: "Times New Roman","字酷堂石刻体",serif,"PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
   background-color: #ffffff;
   color: #1c2124;
   -webkit-text-size-adjust: 100%;
