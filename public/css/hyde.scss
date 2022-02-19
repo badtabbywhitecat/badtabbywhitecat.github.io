@@ -307,7 +307,7 @@
 /* Icon font styles */
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'Times New Roman','字酷堂石刻体';
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -320,14 +320,10 @@
 }
 
 .icon.icon-dark-mode::before {
-  /*content: "\e9d5";*/
-  background-image: "/public/images/icon-brightness.png";
-  background-size: 25px 25px;
+  content: "明暗";
 }
 .icon.icon-calendar::before {
-  /*content: "\e953";*/
-  background-image: "/public/images/icon-date.png";
-  background-size: 25px 25px;
+  content: "⭐";
 }
 .icon.icon-github::before {
   content: "\eab0";
@@ -339,9 +335,7 @@
   content: "\ea9a";
 }
 .icon.icon-rss::before {
-  /*content: "\ea9c";*/
-  background-image: "/public/images/icon-code.png";
-  background-size: 25px 25px;
+  content: "</>";
 }
 .icon.icon-facebook::before {
   content: "\ea91";
