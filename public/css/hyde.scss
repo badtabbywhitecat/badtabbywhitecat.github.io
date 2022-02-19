@@ -321,9 +321,11 @@
 
 .icon.icon-dark-mode::before {
   content: "\e9d5";
+  background-image: "/public/images/icon-brightness.png";
 }
 .icon.icon-calendar::before {
   content: "\e953";
+  background-image: "/public/images/icon-date.png";
 }
 .icon.icon-github::before {
   content: "\eab0";
@@ -336,6 +338,7 @@
 }
 .icon.icon-rss::before {
   content: "\ea9c";
+  background-image: "/public/images/icon-code.png";
 }
 .icon.icon-facebook::before {
   content: "\ea91";
