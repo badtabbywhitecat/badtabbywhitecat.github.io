@@ -70,7 +70,7 @@ body.dark-mode h4,
 body.dark-mode h5,
 body.dark-mode h6 {
   color: #ffffff;
-  font-family: "Times New Roman","字酷堂石刻体"；
+  font-family: "Times New Roman","字酷堂石刻体",serif；
 }
 body.dark-mode .message {
   background-color: #000000;
@@ -119,6 +119,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  font-family: 'Times New Roman', Times, '字酷堂石刻体','宋体',serif;
 }
 h1 {
   font-size: 2rem;
