@@ -67,7 +67,7 @@ body.dark-mode h3,
 body.dark-mode h4,
 body.dark-mode h5,
 body.dark-mode h6 {
-  color: #ffffff;
+  color: #e2d2ae;
   font-family: "Times New Roman","Noto Serif SC",'宋体','楷体_GB2312', '楷体',"字酷堂石刻体"；
 }
 body.dark-mode .message {
@@ -113,6 +113,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
+  color: #aa1a1a;
   margin-bottom: 1rem;
   font-weight: 600;
   line-height: 1.25;
