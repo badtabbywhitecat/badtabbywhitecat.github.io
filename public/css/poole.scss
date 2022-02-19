@@ -36,13 +36,13 @@ body {
   line-height: 1.6;
 }
 @font-face {
-  font-family: 'icomoon','Noto Serif SC','字酷堂石刻体';
+  font-family: 'icomoon','Noto Serif SC','楷体_GB2312', '楷体','字酷堂石刻体';
   src: url('../fonts/icomoon.ttf') format('truetype'),url('../fonts/NotoSerifSC-Regular.otf') format('opentype'), url('../fonts/ZiKuTangShiKeTi-2.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 body {
-  font-family: "Times New Roman","Noto Serif SC","字酷堂石刻体","PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  font-family: "Times New Roman","Noto Serif SC",'楷体_GB2312', '楷体',"字酷堂石刻体","PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
   background-color: #ffffff;
   color: #1c2124;
   -webkit-text-size-adjust: 100%;
@@ -68,7 +68,7 @@ body.dark-mode h4,
 body.dark-mode h5,
 body.dark-mode h6 {
   color: #ffffff;
-  font-family: "Times New Roman","Noto Serif CJK","字酷堂石刻体"；
+  font-family: "Times New Roman","Noto Serif SC",'楷体_GB2312', '楷体',"字酷堂石刻体"；
 }
 body.dark-mode .message {
   background-color: #000000;
@@ -203,14 +203,14 @@ kbd {
   background-color: #f5f3f1;
   color: #222222;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
-  font-family: "Source Code Pro", "Noto Serif SC","Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
+  font-family: "Source Code Pro", "Noto Serif SC",'楷体_GB2312', '楷体',"Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
   font-size: .8rem;
 }
 
 /* Code */
 code,
 pre {
-  font-family: "Source Code Pro", "Noto Serif SC","Noto Serif CJK","Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
+  font-family: "Source Code Pro", "Noto Serif SC",'楷体_GB2312', '楷体',"Noto Serif CJK","Andale Mono", Menlo, Consolas, "Microsoft Yahei", monospace;
 }
 code {
   padding: .18em 0.28em;
@@ -258,7 +258,7 @@ blockquote::before {
   height: 0;
   content: "“";
   margin-left: -.8em;
-  font: italic 400%/1 Cochin, Georgia, "Times New Roman", serif;
+  font: italic 400%/1 Cochin, Georgia, "Times New Roman", "Noto Serif SC",'楷体_GB2312', '楷体',serif;
   color: #aaa;
 }
 blockquote p:last-child {
