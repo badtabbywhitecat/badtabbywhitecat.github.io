@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag: drawing
-permalink: /tags/drawing.html
+permalink: tags/drawing.html
 ---

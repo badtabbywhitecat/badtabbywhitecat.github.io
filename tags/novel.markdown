@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag: novel
-permalink: /tags/novel.html
+permalink: tags/novel.html
 ---

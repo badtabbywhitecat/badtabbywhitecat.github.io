@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag: daily
-permalink: /tags/daily.html
+permalink: tags/daily.html
 ---
