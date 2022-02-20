@@ -24,7 +24,7 @@ analytics:        'UA-32028925-2'
 
 # Fallback image and color if not overwritten for tag or post
 image:            /public/images/side.png
-color:            '#dc322f'
+color:            '#aa1a1a'
 
 author:
   name:           猫包
