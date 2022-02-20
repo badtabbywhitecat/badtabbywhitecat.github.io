@@ -3,7 +3,7 @@ layout: page
 title: "关于"
 permalink: about.html
 image: /public/images/lym3.png
-color: '#f44336'
+color: '#aa1a1a'
 index: 5
 ---
 
