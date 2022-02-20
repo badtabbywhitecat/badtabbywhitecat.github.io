@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag: poet
-permalink: /tags/poet
+permalink: /tags/poet.html
 ---

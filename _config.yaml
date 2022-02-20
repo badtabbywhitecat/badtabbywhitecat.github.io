@@ -6,7 +6,7 @@ permalink:        /posts/:title.html
 # img_url:          https://cdn.jsdelivr.net/gh/infp/infp.github.io/images
 
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
-baseurl:          ''
+baseurl:          'https://badtabbywhitecat.github.io'
 
 title:            存档点
 tagline:          天地间
