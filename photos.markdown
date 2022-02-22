@@ -125,6 +125,11 @@ index: 7
       <img src="/public/images/202005.png">
     </a>
   </div>
+    <div class="grid-item">
+    <a class="view" href="/public/images/懒得产粮.png" title="周祝-懒得产粮AU问卷" rel="vsco">
+      <img src="/public/images/懒得产粮.png">
+    </a>
+  </div>
 </div>
 
 <script src="{{site.baseurl}}/public/js/masonry.pkgd.min.js"></script>
