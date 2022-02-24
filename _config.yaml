@@ -23,7 +23,7 @@ notification:     |
 analytics:        'UA-32028925-2'
 
 # Fallback image and color if not overwritten for tag or post
-image:            /public/images/side1.png
+image:            /public/images/side.png
 color:            '#aa1a1a'
 
 author:
