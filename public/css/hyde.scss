@@ -428,6 +428,9 @@
     border-radius: 5px;
     padding-left: 10px;
   }
+  .drawer-open #_sidebar{
+    box-shadow: 3px 3px 6px #aa1a1a;
+  }
   // To force this heading to always be the beginning of a page
   h1 {
     page-break-before: always;
