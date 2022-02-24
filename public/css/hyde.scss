@@ -39,11 +39,11 @@
   padding: 2rem 1rem;
   color: #c3c3c3;
   background-color: #202020 !important;
-  text-align: left;
+  text-align: center;
   width: 20rem;
   background-size: cover;
   background-position: center center;
-  // box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15) !important;
+  box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15) !important;
 }
 /* make sidebar slightly darker to increase text readability (when using a background image) */
 .sidebar::before {
@@ -64,7 +64,7 @@
   left: -20rem;
   width: 20rem;
   will-change: transform;
-  // box-shadow: 0.25rem 0 0.3rem rgba(0, 0, 0, 0.15)
+  box-shadow: 0.25rem 0 0.3rem rgba(0, 0, 0, 0.15)
 }
 
 .drawer > .sidebar::before {
@@ -168,10 +168,12 @@
   display: block;
   line-height: 1.75;
   padding: .75rem .1rem;
-  border-top: 1px solid rgba(255,255,255,0.2);
   cursor: pointer;
+  font-size: 1.2rem;
+  display: block;
+  border:1px solid#c3c3c3;
+  border-radius: 5px;
 }
-
 .sidebar-nav-item:last-child {
   border-bottom: 1px solid rgba(255,255,255,0.2)
 }
@@ -416,20 +418,6 @@
   }
   .content blockquote p {
     text-indent: 0;
-  }
-  .sidebar{
-    text-align: center;
-  }
-  .sidebar-nav-item{
-    font-size: 1.2rem;
-    line-height: 1.6;
-    display: block;
-    border:1px solid#c3c3c3;
-    border-radius: 5px;
-    padding-left: 10px;
-  }
-  .drawer-open #_sidebar{
-    box-shadow: 3px 3px 6px #aa1a1a;
   }
   // To force this heading to always be the beginning of a page
   h1 {
