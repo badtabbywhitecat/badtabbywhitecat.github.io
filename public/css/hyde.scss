@@ -417,6 +417,17 @@
   .content blockquote p {
     text-indent: 0;
   }
+  .sidebar{
+    text-align: center;
+  }
+  .sidebar-nav-item{
+    font-size: 1.2rem;
+    line-height: 1.6;
+    display: block;
+    border:1px solid#c3c3c3;
+    border-radius: 5px;
+    padding-left: 10px;
+  }
   // To force this heading to always be the beginning of a page
   h1 {
     page-break-before: always;
