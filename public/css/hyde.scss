@@ -43,7 +43,7 @@
   width: 20rem;
   background-size: cover;
   background-position: center center;
-  box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15) !important;
+  box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.25) !important;
 }
 /* make sidebar slightly darker to increase text readability (when using a background image) */
 .sidebar::before {
@@ -171,7 +171,8 @@
   font-size: 1.2rem;
   display: block;
   border:1px solid#c3c3c3;
-  border-radius: 5px;
+  border-radius: 8px;
+  margin-bottom: 10px;
 }
 .sidebar-nav-item:last-child {
   border-bottom: 1px solid rgba(255,255,255,0.2)
