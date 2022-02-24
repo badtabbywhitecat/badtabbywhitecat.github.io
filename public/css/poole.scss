@@ -71,7 +71,7 @@ body.dark-mode h6 {
   font-family: 'icomoon','Times New Roman', Times, '字酷堂石刻体',serif,'宋体','楷体_GB2312', '楷体'；
 }
 body.dark-mode .message {
-  background-color: #000000;
+  background-color: #1d1d1d;
 }
 body.dark-mode hr,
 body.dark-mode .aside-title {
@@ -331,6 +331,7 @@ th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
+  font-size: 15px;
   background-color: #f2f2f2;
   margin-left: -1rem;
   margin-right: -1rem;
