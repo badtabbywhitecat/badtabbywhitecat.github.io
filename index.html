@@ -21,7 +21,7 @@ permalink: index.html
     <li>
       <div class="heading">
         <a href="{{site.baseurl}}{{post.url}}"><span>{{post.title}}</span></a>
-        <span class="timestamp">{{post.date | date: '%Y年%m月%d日'}}</span>
+        <span class="timestamp">{{post.date | date: '%m月%d日'}}</span>
       </div>
     </li>
     {% if forloop.last %}</ul>{% endif %}
