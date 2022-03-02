@@ -29,7 +29,7 @@ permalink: index.html
     <li>
       <div class="heading">
         <a href="{{site.baseurl}}{{post.url}}"><span>{{post.title}}</span></a>
-        <span class="timestamp">{{post.date | date: '%m月%d日'}} &middot;{% if tags_content != '' %}归类于{{tags_content}}{% endif %}</span>
+        <span class="timestamp">{{post.date | date: '%m月%d日'}} &middot;{% if tags_content != '' %}{{tags_content}}{% endif %}</span>
       </div>
     </li>
     {% if forloop.last %}</ul>{% endif %}
