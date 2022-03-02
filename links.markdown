@@ -2,7 +2,7 @@
 layout: page
 title: "友链"
 permalink: links.html
-index: 3
+index: 7
 ---
 
 友情链接~

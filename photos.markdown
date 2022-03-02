@@ -2,7 +2,7 @@
 layout: page
 title: 画集
 permalink: photos.html
-index: 7
+index: 3
 ---
 
 <style>
