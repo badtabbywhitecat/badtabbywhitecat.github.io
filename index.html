@@ -22,6 +22,7 @@ permalink: index.html
       <div class="heading">
         <a href="{{site.baseurl}}{{post.url}}"><span>{{post.title}}</span></a>
         <span class="timestamp">{{post.date | date: "%m/%d"}}</span>
+        <span class="posttag" herf="https://badtabbywhitecat.github.io/tags/{{post_tag}}.html">{{post.tag}}</span>
       </div>
     </li>
     {% if forloop.last %}</ul>{% endif %}
