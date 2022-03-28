@@ -140,6 +140,11 @@ index: 3
       <img src="/public/images/hsxh01.png">
     </a>
   </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/hsxh02.png" title="衡山笑话插图2" rel="vsco">
+      <img src="/public/images/hsxh02.png">
+    </a>
+  </div>
 </div>
 
 <script src="{{site.baseurl}}/public/js/masonry.pkgd.min.js"></script>
