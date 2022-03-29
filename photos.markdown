@@ -141,8 +141,13 @@ index: 3
     </a>
   </div>
   <div class="grid-item">
-    <a class="view" href="https://storage.gra.cloud.ovh.net/v1/AUTH_011f6e315d3744d498d93f6fa0d9b5ee/qotoorg/media_attachments/files/108/035/665/263/368/826/original/6e2edf08582a39ad.png" title="衡山笑话插图2" rel="vsco">
-      <img src="https://storage.gra.cloud.ovh.net/v1/AUTH_011f6e315d3744d498d93f6fa0d9b5ee/qotoorg/media_attachments/files/108/035/665/263/368/826/original/6e2edf08582a39ad.png">
+    <a class="view" href="/public/images/hsxh02.png" title="衡山笑话插图2" rel="vsco">
+      <img src="/public/images/hsxh02.png">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/hsxh03.png" title="衡山笑话插图3" rel="vsco">
+      <img src="/public/images/hsxh03.png">
     </a>
   </div>
 </div>
