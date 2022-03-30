@@ -151,7 +151,7 @@ index: 3
     </a>
   </div>
   <div class="grid-item">
-    <a class="view" href="/public/images/hsxh04.png" title="衡山笑话插图4" rel="vsco">
+    <a class="view" href="/public/images/hsxh04(3).png" title="衡山笑话插图4" rel="vsco">
       <img src="/public/images/hsxh04.png">
     </a>
   </div>
