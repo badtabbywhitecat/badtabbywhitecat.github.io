@@ -103,7 +103,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: inherit;
+  color: #aa1a1a;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
@@ -221,6 +221,7 @@ code {
   border-radius: 0;
   font-size: 1rem;
   background-color: #fdf6e3;
+  font-family: 'Times New Roman', Times, serif, '宋体';
   color: #35464b;
 }
 pre {
@@ -430,7 +431,7 @@ th {
   border: 0;
 }
 .post hr:not(.post-divide)::after {
-  content: ". . . . . .";
+  content: "_____________________";
   display: block;
   text-align: center;
   font-size: 1.5rem;
