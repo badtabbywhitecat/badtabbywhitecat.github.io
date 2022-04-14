@@ -27,6 +27,11 @@ novel:
   name: 小说
   description: >
     我上面没人
+
+reading:
+  name: 读书
+  description: >
+    子曾经曰过……
     
 drawing:
   name: 绘画
