@@ -38,12 +38,13 @@ body {
 @font-face {
   font-family: 'icomoon','Noto Serif SC','Times New Roman', Times, '字酷堂石刻体',serif,'宋体','楷体_GB2312', '楷体';
   src: url('../fonts/icomoon.ttf') format('truetype'),url('../fonts/NotoSerifSC-Regular.otf') format('opentype'), url('../fonts/ZiKuTangShiKeTi-2.woff2') format('woff2');
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }
 body {
-  font-family: 'icomoon','Times New Roman', Times, serif,'字酷堂石刻体','宋体','楷体_GB2312', '楷体',"字酷堂石刻体","PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  font-family: 'icomoon',"NotoSerifSC-Bold", 'Times New Roman', Times, serif,'字酷堂石刻体','宋体','楷体_GB2312', '楷体',"字酷堂石刻体","PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
   background-color: #FDFCF2;
+  font-weight: bold;
   color: #1c2124;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -68,7 +69,7 @@ body.dark-mode h4,
 body.dark-mode h5,
 body.dark-mode h6 {
   color: #c5baa1;
-  font-family: 'icomoon','Times New Roman', Times, '田氏宋体二简字','字酷堂石刻体',serif,'宋体','楷体_GB2312', '楷体'；
+  font-family: 'icomoon','Times New Roman', Times, "NotoSerifS-Black",'田氏宋体二简字','字酷堂石刻体',serif,'宋体','楷体_GB2312', '楷体';
 }
 body.dark-mode .message {
   background-color: #1d1d1d;
@@ -120,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.25;
   text-align: center;
-  font-family: 'Times New Roman', Times,'田氏宋体二简字','字酷堂石刻体', serif,'宋体';
+  font-family: 'Times New Roman', Times,"NotoSerifSC-Black",'田氏宋体二简字','字酷堂石刻体', serif,'宋体';
   text-rendering: optimizeLegibility;
 }
 h1 {
