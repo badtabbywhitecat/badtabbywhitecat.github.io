@@ -221,8 +221,8 @@ code {
   padding: .18em 0.28em;
   /* Could be mistaken for a link if the user choses a similar link-color, so better no colored inline code. */
   border-radius: 0;
-  font-size: 1rem;
-  background-color: #fdf6e3;
+  font-size: x-small;
+  background-color: #f7f3e9;
   font-family: 'Times New Roman', Times, serif, '宋体';
   color: #35464b;
 }
@@ -354,6 +354,7 @@ th {
 
 .container {
   padding-left: 1rem;
+  color: #efe9e6;
   padding-right: 1rem;
 }
 
