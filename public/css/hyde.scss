@@ -20,7 +20,7 @@
 @font-face {
   font-family: 'icomoon','Noto Serif SC','字酷堂石刻体';
   src: url('../fonts/icomoon.ttf') format('truetype'),url('../fonts/NotoSerifSC-Regular.otf') format('opentype'),url('../fonts/ZiKuTangShiKeTi-2.woff2') format('woff2');
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -127,7 +127,7 @@
     left: 0;
     bottom: 0;
     width: 22rem;
-    font-family: '字酷堂石刻体','Times New Roman', Times, serif;
+    font-family: '田氏宋体二简','字酷堂石刻体','Times New Roman', Times, serif;
     /* Disable drawer positiioning on larger screens (already done via JS, but just to be sure) */
     transform: translate3d(0, 0, 0) !important;
   }
