@@ -43,7 +43,7 @@ body {
 }
 body {
   font-family: 'icomoon','Times New Roman', Times, serif,'字酷堂石刻体','宋体','楷体_GB2312', '楷体',"字酷堂石刻体","PingFangTC-Light", "Open Sans", "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
-  background-color: #e6e5cf;
+  background-color: #FDFCF2;
   color: #1c2124;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -115,7 +115,7 @@ strong{
 }
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #aa1a1a;
+  color: #626262;
   margin-bottom: 1rem;
   font-weight: 600;
   line-height: 1.25;
@@ -224,7 +224,7 @@ code {
   font-size: x-small;
   background-color: #f7f3e9;
   font-family: 'Times New Roman', Times, serif, '宋体';
-  color: #35464b;
+  color: #FDFCF2;
 }
 pre {
   display: block;
@@ -242,7 +242,9 @@ pre code {
   /* Fit 80 chars in the block without side-scroll for large screens */
   font-size: .9rem;
 }
-
+pre.highlight{
+  background-color: #64A984;
+}
 /* <del>Pygments</del> Rouge via Jekyll */
 .highlight {
   margin-bottom: 1rem;
@@ -253,6 +255,7 @@ pre code {
 }
 .highlight pre {
   margin-bottom: 0;
+  background-color: #64A883;
 }
 
 /* Quotes */
@@ -339,7 +342,7 @@ th {
   margin-bottom: 1rem;
   padding: 1rem;
   font-size: 15px;
-  background-color: #f2f2f2;
+  background-color: #FDFCF2;
   margin-left: -1rem;
   margin-right: -1rem;
 }
@@ -417,8 +420,11 @@ th {
 .page-title,
 .post-title {
   margin-top: 0;
+  text-align: center;
 }
-
+.message{
+  text-align: center;
+}
 /* Meta data line below post title */
 .post-data {
   display: block;
@@ -560,7 +566,12 @@ ul.related-posts li a:hover {
 ul.related-posts li a:hover > span {
   border-bottom: 1px solid;
 }
-
+span.timestamp{
+  background-color: #FDFCF2;
+}
+span {
+  background-color: #FDFCF2;
+}
 
 // Most Valuable Link
 .most-valuable-link {
