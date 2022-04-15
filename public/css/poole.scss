@@ -248,6 +248,8 @@ pre code {
   margin-bottom: 1rem;
   /* Disableling the border radius prevents repainting when scrolling on mobile */
   border-radius: 4px;
+  background-color: #51726e;
+  color:#ffffff
 }
 .highlight pre {
   margin-bottom: 0;
@@ -547,7 +549,6 @@ ul.related-posts a {
 ul.related-posts .timestamp {
   float: right;
   padding-left: 5px;
-  background-color: #ded9d4;
   position: relative;
   z-index: 1;
 }
@@ -559,6 +560,7 @@ ul.related-posts li a:hover {
 ul.related-posts li a:hover > span {
   border-bottom: 1px solid;
 }
+
 
 // Most Valuable Link
 .most-valuable-link {
