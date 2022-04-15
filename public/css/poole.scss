@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 42;
   line-height: 1.25;
   text-align: center;
-  font-family: 'Times New Roman', Times,"NotoSerifSC-Black",'田氏宋体二简字','字酷堂石刻体', serif,'宋体';
+  font-family: 'Times New Roman', Times,"NotoSerifSC-Black",'宋体','字酷堂石刻体', serif,'宋体';
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -260,6 +260,7 @@ pre.highlight{
 .highlight pre {
   margin-bottom: 0;
   background-color: #64A883;
+  font-weight:42;
 }
 
 /* Quotes */
