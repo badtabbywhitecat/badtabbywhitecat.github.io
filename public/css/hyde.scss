@@ -321,10 +321,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon.icon-dark-mode::before {
+  /*.icon.icon-dark-mode::before {
   content: "明暗";
   font-size: 1.25rem;
-}
+}*/
 .icon.icon-calendar::before {
   content: "〇 ";
 }
@@ -337,9 +337,9 @@
 .icon.icon-weibo::before {
   content: "\ea9a";
 }
-.icon.icon-rss::before {
+  /*.icon.icon-rss::before {
   content: "</>";
-}
+}*/
 .icon.icon-facebook::before {
   content: "\ea91";
 }
