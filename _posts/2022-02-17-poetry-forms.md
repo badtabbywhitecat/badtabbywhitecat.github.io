@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '诗词格律备忘'
-tags: poet
+tags: daily
 ---
 
 
