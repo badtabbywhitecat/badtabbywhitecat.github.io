@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '诗词格律备忘'
+title: '【工具】诗词格律备忘'
 tags: daily
 ---
 
