@@ -161,8 +161,8 @@ index: 3
     </a>
   </div>
   <div class="grid-item">
-    <a class="view" href="/public/images/hsxh06.png" title="衡山笑话插图6" rel="vsco">
-      <img src="/public/images/hsxh06.png">
+    <a class="view" href="/public/images/hsxh06.jpg" title="衡山笑话插图6" rel="vsco">
+      <img src="/public/images/hsxh06.jpg">
     </a>
   </div>
 </div>
