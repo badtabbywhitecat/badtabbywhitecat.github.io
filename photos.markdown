@@ -165,6 +165,136 @@ index: 3
       <img src="/public/images/hsxh06.jpg">
     </a>
   </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201901.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201901.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201902.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201902.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201903.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201903.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201904.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201904.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201905.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201905.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201906.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201906.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201907.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201907.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201908.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201908.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201909.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201909.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201910.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201910.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201911.jpeg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201911.jpeg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201912.png" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201912.png">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201913.png" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201913.png">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201914.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201914.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201915.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201915.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201916.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201916.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201917.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201917.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201918.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201918.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201919.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201919.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201920.png" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201920.png">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201921.png" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201921.png">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/201922.jpg" title="陈年杂图" rel="vsco">
+      <img src="/public/images/201922.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/zdr1.jpg" title="周敦儒，摸鱼" rel="vsco">
+      <img src="/public/images/zdr1.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/zdr2.jpg" title="周敦儒，摸鱼" rel="vsco">
+      <img src="/public/images/zdr2.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/lym.jpg" title="陆一鸣，摸鱼" rel="vsco">
+      <img src="/public/images/lym.jpg">
+    </a>
+  </div>
+  <div class="grid-item">
+    <a class="view" href="/public/images/lym2.jpg" title="陆一鸣，摸鱼" rel="vsco">
+      <img src="/public/images/lym2.jpg">
+    </a>
+  </div>
 </div>
 
 <script src="{{site.baseurl}}/public/js/masonry.pkgd.min.js"></script>
