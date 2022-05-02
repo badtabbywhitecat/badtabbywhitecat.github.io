@@ -276,23 +276,23 @@ index: 3
     </a>
   </div>
   <div class="grid-item">
-    <a class="view" href="/public/images/zdr1.jpg" title="周敦儒，摸鱼" rel="vsco">
-      <img src="/public/images/zdr1.jpg">
+    <a class="view" href="/public/images/zdr1.png" title="周敦儒，摸鱼" rel="vsco">
+      <img src="/public/images/zdr1.png">
     </a>
   </div>
   <div class="grid-item">
-    <a class="view" href="/public/images/zdr2.jpg" title="周敦儒，摸鱼" rel="vsco">
-      <img src="/public/images/zdr2.jpg">
+    <a class="view" href="/public/images/zdr2.png" title="周敦儒，摸鱼" rel="vsco">
+      <img src="/public/images/zdr2.png">
     </a>
   </div>
   <div class="grid-item">
-    <a class="view" href="/public/images/lym.jpg" title="陆一鸣，摸鱼" rel="vsco">
-      <img src="/public/images/lym.jpg">
+    <a class="view" href="/public/images/lym.png" title="陆一鸣，摸鱼" rel="vsco">
+      <img src="/public/images/lym.png">
     </a>
   </div>
   <div class="grid-item">
-    <a class="view" href="/public/images/lym2.jpg" title="陆一鸣，摸鱼" rel="vsco">
-      <img src="/public/images/lym2.jpg">
+    <a class="view" href="/public/images/lym2.png" title="陆一鸣，摸鱼" rel="vsco">
+      <img src="/public/images/lym2.png">
     </a>
   </div>
 </div>
